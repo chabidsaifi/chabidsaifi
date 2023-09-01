@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available at [http://www.abidwebdep.ezyro.com/?i=2](http://www.abidwebdep.ezyro.com/?i=2)
+- 👨‍💻 All of my projects are available at [http://www.abidwebdep.ezyro.com/?i=2](www.abidwebdep.ezyro.com)
 
 - 📫 How to reach me **abid08x@gmail.com**
 
